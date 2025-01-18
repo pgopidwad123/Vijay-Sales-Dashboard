@@ -1,6 +1,7 @@
 # Vijay-Sales-Dashboard
 ##**Project Objective**: To design and develop an interactive Power BI sales dashboard that provides actionable insights into sales performance, customer behavior, and market trends. The dashboard aims to empower stakeholders with real-time data visualization, enabling data-driven decision-making to improve revenue, profitability, and operational efficiency.
 ##**Used Dataset**: https://docs.google.com/spreadsheets/d/1gtfm6ecrJaHrH2mQ_OIsl1NkviwJNBwGTq_1JYnddFE/edit?usp=sharing
+
 ##**Questions**: 
 What are the total sales, revenue, and profit for the selected time period?
 How do sales vary across different regions, states, or cities?
